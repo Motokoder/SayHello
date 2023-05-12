@@ -1,3 +1,3 @@
 # Test Vessel Package Reference After Repo Transfer
 
-v1.0.0
+v2.0.0

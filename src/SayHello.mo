@@ -1,5 +1,5 @@
 module {
   public func SayHello() : Text {
-    "Hello";
+    "Hello v2";
   };
 };
